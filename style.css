@@ -1,0 +1,19 @@
+/* .col-md-3 {
+ 
+    float:left;
+
+} */
+
+nav {
+    margin-top:10px;
+    height: 100px;
+}
+
+.navbar-brand {
+    width: 100px;
+    background:green;
+    color: white;
+    height: 100px;
+    text-align: center;
+    margin:auto;
+}
